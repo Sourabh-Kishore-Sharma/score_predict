@@ -1,3 +1,2 @@
 # score_predict_tsf
-This supervised regression model will predict percentage of a student based on the number of hours studied.
-This repo is written in Python3 and uses libraries pandas,numpy,matplotlib and sklearn.
+This supervised regression model will predict percentage of a student based on the number of hours studied. This is a simple regression model that contains two variables i.e Percentage & Hours studied.
